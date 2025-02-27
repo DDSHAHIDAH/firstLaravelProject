@@ -81,7 +81,7 @@
     </nav>
 
     <!-- Mobile Documentation Menu (Dropdown with Animation) -->
-    <div id="mobileMenu" class="hidden fixed top-14 left-0 w-full bg-white shadow-md py-3 px-6 transition-all duration-300 ease-in-out opacity-0 -translate-y-5">
+    <div id="mobileMenu" class="hidden fixed top-14 left-0 w-full bg-white shadow-md py-3 px-6 transition-all duration-300 ease-in-out opacity-0 -translate-y-5 z-50">
         <a href="#" class="block py-2 text-gray-600 hover:text-gray-900">Documentation</a>
         <a href="#" class="block py-2 text-gray-600 hover:text-gray-900">Community</a>
         <a href="#" class="block py-2 text-gray-600 hover:text-gray-900">Support</a>
