@@ -124,6 +124,12 @@
                     </svg>
                     <span class="font-medium">Team</span>
                 </a>
+
+                <a href="#" class="flex items-center px-4 py-2 bg-indigo-50 text-indigo-600 font-semibold relative rounded-md">
+                    <span class="absolute left-0 top-0 bottom-0 w-1 bg-indigo-600 rounded-l-md"></span>
+                    CEO 360
+                </a>
+
                 <a href="#" class="flex items-center space-x-3 text-gray-600 p-2 hover:bg-gray-100 rounded-md">
                     <svg class="w-5 h-5 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h11M9 21v-6m4 6v-6m5 6v-6M9 3l3 3m0 0l3-3m-3 3V3"></path>
