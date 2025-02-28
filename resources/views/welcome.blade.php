@@ -72,6 +72,8 @@
             </button>
         </div>
 
+        <a href="{{ route('login') }}" class="bg-green-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-gray-700 ml-4">Login</a>
+
         <!-- Mobile Documentation Menu Button (⬅) -->
         <button onclick="toggleMobileMenu()" class="md:hidden text-gray-600 hover:text-gray-900">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
