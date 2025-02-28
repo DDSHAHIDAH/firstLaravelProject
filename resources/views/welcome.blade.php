@@ -127,7 +127,7 @@
 
                 <a href="#" class="flex items-center px-4 py-2 bg-indigo-50 text-indigo-600 font-semibold relative rounded-md">
                     <span class="absolute left-0 top-0 bottom-0 w-1 bg-indigo-600 rounded-l-md"></span>
-                    CEO 360
+                    Admin
                 </a>
 
                 <a href="#" class="flex items-center space-x-3 text-gray-600 p-2 hover:bg-gray-100 rounded-md">
